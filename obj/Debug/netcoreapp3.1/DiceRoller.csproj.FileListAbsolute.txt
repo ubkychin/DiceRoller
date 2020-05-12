@@ -1,0 +1,12 @@
+/Users/anguyen/Projects/CSharp/DiceRoller/bin/Debug/netcoreapp3.1/DiceRoller.deps.json
+/Users/anguyen/Projects/CSharp/DiceRoller/bin/Debug/netcoreapp3.1/DiceRoller.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/DiceRoller/bin/Debug/netcoreapp3.1/DiceRoller.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/DiceRoller/bin/Debug/netcoreapp3.1/DiceRoller.dll
+/Users/anguyen/Projects/CSharp/DiceRoller/bin/Debug/netcoreapp3.1/DiceRoller.pdb
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.dll
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.pdb
+/Users/anguyen/Projects/CSharp/DiceRoller/obj/Debug/netcoreapp3.1/DiceRoller.genruntimeconfig.cache
